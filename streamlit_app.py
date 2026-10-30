@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("hello world")
+st.write("Hello World")
 
 python -m streamlit run app.py
 
